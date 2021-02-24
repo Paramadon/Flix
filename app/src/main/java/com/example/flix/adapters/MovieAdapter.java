@@ -96,7 +96,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder>{
             }
             int margin = 10;
             int radius = 30;
-            Glide.with(context).load(imageUrl).transform(new RoundedCornersTransformation(radius, margin)).into(ivPoster);
+            Glide.with(context).load(imageUrl).into(ivPoster);
             //1.register click lister on the whole row
             //2. Navigate to a new activity on tap
             container.setOnClickListener(new View.OnClickListener() {
