@@ -1,7 +1,7 @@
 # Flix
 
 
-The Flix app uses movie data base api, https://themoviedb.docs.apiary.io/#, and youtube api to get the list of current movies in theatres, as well as there rating, description, and even a trailer of the movie from youtube!
+The Flix app uses movie data base api, https://themoviedb.docs.apiary.io/#, and youtube api to get the list of current movies in theatres. The app implemented the list of movies as well as there rating, description,release date and even a trailer of the movie from youtube!
 
 ![walkthrough_Final_Flix](https://user-images.githubusercontent.com/50599809/108947519-9ed0f680-762e-11eb-94b3-c1840d52db0d.gif)
 
